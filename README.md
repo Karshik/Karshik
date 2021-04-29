@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Karshik
+- 👀 I’m interested in Software development
+- 🌱 I’m currently learning c#
+- 💞️ I’m looking to collaborate on discord
+- 📫 To contact me in discord, here is my username: zptgamer#4317 :)
